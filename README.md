@@ -1,4 +1,4 @@
-Flask template
+Flask API template
 ===============================
 
  Install `python3`, `pip`, `virtualenv`
